@@ -11,4 +11,4 @@ An example project created when following the MDN webforms documentation: https:
 7/4/23 - Finished "How to structure a webform"
 
 
-Next - "How to structure a webform" - Test your skills!
+Next - "How to structure a webform" - [Test your skills!](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form#test_your_skills!)
