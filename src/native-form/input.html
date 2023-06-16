@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Input!</title>
+    </head>
+    <body>
+        <p>hello</p>
+        <section>
+            <h3>text fields</h3>
+            <p>
+                <!-- What are the attributes? id: used for label, name: used to name value on post / form submission -->
+                <ul>
+                    <label for="comment">
+                        Comment
+                        <input type="text" id="comment" name="comment" value="I am a field of text"/>
+                    </label>
+                </ul>
+                <ul>
+                    <label for="password">
+                        Password
+                        <input type="password" id="password" name="password" />
+                    </label>
+                </ul>
+                <ul>
+                    <label for="email">
+                        Email
+                        <input type="email" id="email" name="email" />
+                    </label>
+                </ul>
+                <ul>
+                    <label for="hidden">
+                        Hidden!
+                        <!-- generally shouldn't have a label. I'm including label for example purposes -->
+                        <input type="hidden" id="hidden" name="hidden" />
+                    </label>
+                </ul>
+            </p>
+
+        </section>
+    </body>
+</html>
